@@ -1,4 +1,4 @@
-# No Shit
+# No Shit 🧼💎
 
 A sane Ruby version manager. Stop wasting your valuable time on waiting for Ruby to compile. Let `noshit` handle all the crappy setup require for you.
 
